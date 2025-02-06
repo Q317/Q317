@@ -26,7 +26,6 @@
 | **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Podman, Kubernetes, LXC |
 | **Автоматизация** | Ansible, Puppet |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
-| **Контроль версий** | Git |
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
 | **Сервисы и протоколы** | ActiveMQ, RabbitMQ, XMPP, REST API |
 | **Безопасность** | Dr.Web, Kaspersky, ClamAV, Let's Encrypt, LDAP, Kerberos, Active Directory, iptables, SSL, КриптоПро |
