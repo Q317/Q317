@@ -2,9 +2,9 @@
 DevOps инженер и Системный администратор с 2010 года.
 
 ## Контакты
-Email: sia@work-devops.ru
-GitHub: github.com/Q317
-Telegram: @sia_1347
+Email: sia@work-devops.ru <br>
+GitHub: github.com/Q317   <br>
+Telegram: @sia_1347       <br>
 
 
 ## Профессиональные навыки
