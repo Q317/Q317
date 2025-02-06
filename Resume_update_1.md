@@ -27,12 +27,9 @@
 | **Автоматизация** | Ansible, Puppet |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
-| **Сервисы и протоколы** | ActiveMQ, RabbitMQ, XMPP, REST API |
-| **Безопасность** | Dr.Web, Kaspersky, ClamAV, Let's Encrypt, LDAP, Kerberos, Active Directory, iptables, SSL, КриптоПро |
-| **Инструменты администрирования** | ELK (Elasticsearch, Logstash, Kibana), Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, GLPI, OCS Inventory, iDRAC, HP iLO, Nexus |
-| **Резервное копирование** | Bareos, Acronis |
-| **Веб-приложения** | Bitrix, Bolt, Symphony |
-
+| **Сервисы и протоколы** | ActiveMQ, RabbitMQ, REST API |
+| **Безопасность** | Dr.Web, Kaspersky, ClamAV, LDAP, Kerberos, Active Directory, КриптоПро |
+| **Инструменты администрирования** | ELK (Elasticsearch, Logstash, Kibana), Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, Nexus |
 
 **Образование**
 
