@@ -24,7 +24,7 @@
 | **Базы данных** | MySQL (MariaDB), PostgreSQL, MSSQL, SQLite |
 | **Системы мониторинга** | Icinga2, Zabbix, PRTG, Grafana, Prometheus |
 | **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Podman, Kubernetes, LXC |
-| **Автоматизация** | Ansible, Puppet |
+| **IaaC (Infrastructure as Code)** | Ansible, Puppet, Chef, Terraform |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
 
