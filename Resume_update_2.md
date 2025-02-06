@@ -24,14 +24,9 @@
 | **Базы данных** | MySQL (MariaDB), PostgreSQL, MSSQL, SQLite |
 | **Системы мониторинга** | Icinga2, Zabbix, PRTG, Grafana, Prometheus |
 | **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Podman, Kubernetes, LXC |
-| **IaaC (Infrastructure as Code)** | Ansible, Puppet, Chef, Terraform |
+| **IaaC (Infrastructure as Code)** | Ansible, Puppet, Chef, Terraform, AWS CloudFormation |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
-
-
-| **Сервисы и протоколы** | ActiveMQ, RabbitMQ, REST API |
-| **Безопасность** | Dr.Web, Kaspersky, ClamAV, LDAP, Kerberos, Active Directory |
-| **Инструменты администрирования** | ELK (Elasticsearch, Logstash, Kibana), Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, Nexus |
 
 **Образование**
 
