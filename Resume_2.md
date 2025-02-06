@@ -30,7 +30,7 @@
 - SQLite
 
 #**Веб-сервис**
-- ELK (Basic)
+- ELK
 - ActiveMQ
 - RabbitMQ
 
@@ -53,7 +53,7 @@
 #**Контейнеры, оркестризация контейнеров**
 - Docker/Docker-compose
 - Podman
-- Kubernetes (basic)
+- Kubernetes
 - lxc
 
 #**Авторизация**
