@@ -150,9 +150,10 @@
 **Проект:** Adinsure      <br>
 **Заказчик:** СОГАЗ  <br>
 **Роль:** DevOps инженер  <br>
+**Инструменты:** Docker, GitLab, IIS, MSSQL, PRTG, ELK, REST API, Powershell, ActiveMQ, Windows, Linux <br>
 **Задачи:**  <br>
 *  Разработка серверной архитектуры, подготовка DEV/TEST сред для разработки и тестирования
 *  Настройка CI/CD, развертывание ELK, настройка сервисов
 *  Автоматизация различных задач информационной системы
 *  Контроль и поддержка системы мониторинга.
-**Инструменты:** Docker, GitLab, IIS, MSSQL, PRTG, ELK, REST API, Powershell, ActiveMQ, Windows, Linux <br>
+
