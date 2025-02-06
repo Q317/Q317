@@ -19,15 +19,15 @@
 
 | **Категория** | **Навыки** |
 |---|---|
-| **Операционные системы** | Linux (администрирование, высокая доступность), Windows Server (2008 R2, 2016, 2019), Windows (7, 8, 10), FreeBSD, MacOS |
-| **Веб-серверы** | Nginx (настройка, оптимизация, высокая доступность), Apache, IIS |
+| **Операционные системы** | Linux, Windows Server (2008 R2, 2016, 2019), Windows (7, 8, 10), FreeBSD, MacOS |
+| **Веб-серверы** | Nginx, Apache, IIS |
 | **Базы данных** | MySQL (MariaDB), PostgreSQL, MSSQL, SQLite |
 | **Системы мониторинга** | Icinga2, Zabbix, PRTG, Grafana, Prometheus |
-| **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Docker Compose, Podman, Kubernetes, LXC |
+| **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Podman, Kubernetes, LXC |
 | **Автоматизация** | Ansible, Puppet |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Контроль версий** | Git |
-| **Языки программирования** | Bash (скриптинг), PowerShell (скриптинг), Python, PHP, Perl, HTML |
+| **Языки программирования** | Bash, PowerShell, Python, PHP, Perl |
 | **Сервисы и протоколы** | ActiveMQ, RabbitMQ, XMPP, REST API |
 | **Безопасность** | Dr.Web, Kaspersky, ClamAV, Let's Encrypt, LDAP, Kerberos, Active Directory, iptables, SSL, КриптоПро |
 | **Инструменты администрирования** | ELK (Elasticsearch, Logstash, Kibana), Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, GLPI, OCS Inventory, iDRAC, HP iLO, Nexus |
