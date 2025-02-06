@@ -19,7 +19,7 @@
 
 | **Категория** | **Навыки** |
 |---|---|
-| **Операционные системы** | Linux, Windows Server (2008 R2, 2016, 2019), Windows (7, 8, 10), FreeBSD, MacOS |
+| **Операционные системы** | Linux, Windows Server, FreeBSD, MacOS |
 | **Веб-серверы** | Nginx, Apache, IIS |
 | **Базы данных** | MySQL (MariaDB), PostgreSQL, MSSQL, SQLite |
 | **Системы мониторинга** | Icinga2, Zabbix, PRTG, Grafana, Prometheus |
@@ -27,7 +27,7 @@
 | **Автоматизация** | Ansible, Puppet |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Контроль версий** | Git |
-| **Языки программирования** | Bash, PowerShell, Python, Golang, Perl |
+| **Языки программирования** | Bash, PowerShell, Python, Golang |
 | **Сервисы и протоколы** | ActiveMQ, RabbitMQ, XMPP, REST API |
 | **Безопасность** | Dr.Web, Kaspersky, ClamAV, Let's Encrypt, LDAP, Kerberos, Active Directory, iptables, SSL, КриптоПро |
 | **Инструменты администрирования** | ELK (Elasticsearch, Logstash, Kibana), Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, GLPI, OCS Inventory, iDRAC, HP iLO, Nexus |
