@@ -10,6 +10,11 @@
 *   GitHub: github.com/Q317
 *   Telegram: @sia_1347
 
+**Языки**
+
+*   Русский (родной)
+*   Английский (Pre-Intermediate - разговорный)
+
 **Профессиональные навыки**
 
 | **Категория** | **Навыки** |
@@ -20,7 +25,7 @@
 | **Системы мониторинга** | Icinga2, Zabbix, PRTG, Grafana, Prometheus |
 | **Виртуализация и контейнеризация** | VMware, QEMU/KVM, VirtualBox, Docker, Docker Compose, Podman, Kubernetes, LXC |
 | **Автоматизация** | Ansible, Puppet |
-| **CI/CD** | Jenkins, TeamCity, GitLab CI/CD, GitHub Actions, Bitbucket Pipelines |
+| **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Контроль версий** | Git |
 | **Языки программирования** | Bash (скриптинг), PowerShell (скриптинг), Python, PHP, Perl, HTML |
 | **Сервисы и протоколы** | ActiveMQ, RabbitMQ, XMPP, REST API |
@@ -41,11 +46,6 @@
 **Опыт работы**
 
 [Здесь необходимо добавить информацию о вашем опыте работы, используя глаголы действия, цифры и конкретные примеры достижений. Опишите каждую должность подробно, указывая период работы, компанию, ваши достижения и используемые технологии.]
-
-**Языки**
-
-*   Русский (родной)
-*   Английский (Pre-Intermediate - разговорный)
 
 ## Советы и рекомендации
 
