@@ -28,7 +28,7 @@
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
 
 ## Дополнительные технологии и инструменты
-
+Bitrix, Bolt, Symphony (basic), Bareos, Acronis (basic), ELK, ActiveMQ, RabbitMQ, GLPI, OCS Inventory, LDAP, Kerberos (basic), Active Directory (AD), iDRAC, HP iLO, DEB, RPM, Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, Dr.Web Enterprise Server, Kaspersky Security for Servers, ClamAV, Lsyncd, dd, rsync, XMPP, Postman, Cerebro, Zenity, Samba, REST API, HTML, PHP (basic), Perl (basic).
 
 ## Образование
 
