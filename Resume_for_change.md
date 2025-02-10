@@ -14,7 +14,7 @@
 *   Русский (родной)
 *   Английский (Pre-Intermediate - разговорный)
 
-## Профессиональные навыки
+## Ключевые технологии и инструменты
 
 | **Категория** | **Навыки** |
 |---|---|
@@ -26,6 +26,9 @@
 | **IaaC (Infrastructure as Code)** | Ansible, Puppet, Chef, Terraform, AWS CloudFormation |
 | **CI/CD** | Jenkins, TeamCity, GitLab, GitHub, Bitbucket |
 | **Языки программирования** | Bash, PowerShell, Python, Golang |
+
+## Дополнительные технологии и инструменты
+
 
 ## Образование
 
