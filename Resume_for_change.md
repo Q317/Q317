@@ -30,6 +30,14 @@
 ## Дополнительные технологии и инструменты
 Bitrix, Bolt, Symphony (basic), Bareos, Acronis (basic), ELK, ActiveMQ, RabbitMQ, GLPI, OCS Inventory, LDAP, Kerberos (basic), Active Directory (AD), iDRAC, HP iLO, DEB, RPM, Postfix, Dovecot, SOGo, CommuniGate Pro, Squid, Dr.Web Enterprise Server, Kaspersky Security for Servers, ClamAV, Lsyncd, dd, rsync, XMPP, Postman, Cerebro, Zenity, Samba, REST API, HTML, PHP (basic), Perl (basic).
 
+## Сертификаты и курсы дополнительного образования
+
+Introduction to Containers, Kubernetes, and OpenShift V2
+A course on cognitiveclass.ai
+Powered by IBM Developer Skills Network.
+
+
+
 ## Образование
 
 | Период обучения | Ученая степень/Квалификация | Учебное заведение | Специальность |
