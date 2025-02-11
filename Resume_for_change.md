@@ -35,8 +35,12 @@ Bitrix, Bolt, Symphony (basic), Bareos, Acronis (basic), ELK, ActiveMQ, RabbitMQ
 Introduction to Containers, Kubernetes, and OpenShift V2
 A course on cognitiveclass.ai
 Powered by IBM Developer Skills Network.
+https://courses.cognitiveclass.ai/certificates/1c9f81ae9f684ddd9a2a0baeeb407ace
 
-
+Kubernetes Operators Intermediate
+A course on cognitiveclass.ai
+Powered by IBM Developer Skills Network.
+https://courses.cognitiveclass.ai/certificates/2071a51e6d864c538499749977d0cbce
 
 ## Образование
 
