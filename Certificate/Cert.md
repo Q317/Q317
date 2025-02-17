@@ -12,6 +12,6 @@ Kubernetes Operators Advanced
 A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
 https://courses.cognitiveclass.ai/certificates/4a7424f9ec714b64852925061c0b8170  
 
-Data Privacy Fundamentals
+Data Privacy Fundamentals  
 A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
 https://courses.cognitiveclass.ai/certificates/7b84b099849d4805b01c950974ed4045
