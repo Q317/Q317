@@ -24,3 +24,8 @@ Reactive Architecture: CQRS & Event Sourcing
 A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
 https://courses.cognitiveclass.ai/certificates/b1b3aea6fa4e4081ab384e272f915d81  
 
+Reactive Architecture: Building Scalable Systems    
+A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
+https://courses.cognitiveclass.ai/certificates/c19a6cdf3c134f6399687633714eb78d  
+
+
