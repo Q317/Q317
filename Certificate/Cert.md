@@ -28,4 +28,6 @@ Reactive Architecture: Building Scalable Systems
 A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
 https://courses.cognitiveclass.ai/certificates/c19a6cdf3c134f6399687633714eb78d  
 
-
+Docker Essentials: A Developer Introduction  
+A course on cognitiveclass.ai Powered by IBM Developer Skills Network  
+https://courses.cognitiveclass.ai/certificates/9c039518a46f4523a02bc09c6e41dc0e  
