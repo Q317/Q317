@@ -12,7 +12,7 @@ cat .ssh/id_ed25519.pub
 
 - 💬 Ask me about **AWS, Terraform (IaC), Docker, Jenkins, Linux**
 
-- 📫 Reach me at **vaishnavsk8804@gmail.com**
+- 📫 Reach me at **sia1812@icloud.com**
 - ![](https://komarev.com/ghpvc/?username=Vaishnav88sk&color=green&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
@@ -55,3 +55,4 @@ cat .ssh/id_ed25519.pub
 <div ><img src="https://github-readme-stats.vercel.app/api?username=Vaishnav88sk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> -->
+
