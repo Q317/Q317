@@ -6,8 +6,6 @@ cat .ssh/id_ed25519.pub
 <h5 align="center" >Certified AWS Solution Architect Associate</h5>
 <p  >  </p>
 
-<!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
-
 - 🌱 I’m currently learning **Kubernetes, Go Lang**
 
 - 💬 Ask me about **AWS, Terraform (IaC), Docker, Jenkins, Linux**
@@ -51,8 +49,6 @@ cat .ssh/id_ed25519.pub
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnav88sk&show_icons=true&locale=en&layout=compact" alt="vaishnav88sk" /></p>
 
-<!-- <h3 align="left">Github Stats:</h3>  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=Vaishnav88sk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/> -->
+
 
