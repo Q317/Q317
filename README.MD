@@ -1,7 +1,3 @@
-ssh-keygen -t ed25519 -C "GitHub"  
-cat .ssh/id_ed25519.pub  
-
-
 <h1 align="center">Hi 👋, I'm Igor Sergeev</h1>
 <h5 align="center" >Certified AWS Solution Architect Associate</h5>
 <p  >  </p>
